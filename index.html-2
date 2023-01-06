@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CV</title>
+</head>
+<body>
+  <h1>My CV</h1>
+  <h2>Personal Information</h2>
+  <p>Name: John Doe</p>
+  <p>Address: 123 Main Street</p>
+  <p>Phone: 555-555-1212</p>
+  <p>Email: john.doe@gmail.com</p>
+  <h2>Education</h2>
+  <h3>Bachelor's Degree in Computer Science</h3>
+  <p>University of Technology</p>
+  <p>September 2016 - June 2020</p>
+  <h2>Work Experience</h2>
+  <h3>Software Engineer</h3>
+  <p>Acme Corporation</p>
+  <p>July 2020 - Present</p>
+  <ul>
+    <li>Developed and maintained software applications using languages such as Java and Python</li>
+    <li>Collaborated with cross-functional teams to troubleshoot and resolve technical issues</li>
+  </ul>
+  <h3>Intern, Software Development</h3>
+  <p>XYZ Company</p>
+  <p>May 2019 - August 2019</p>
+  <ul>
+    <li>Assisted senior software engineers in the development and testing of software applications</li>
+    <li>Gained hands-on experience in technologies such as Git and Agile methodologies</li>
+  </ul>
+  <h2>Skills</h2>
+  <ul>
+    <li>Proficient in Java, Python, and C++</li>
+    <li>Familiar with HTML, CSS, and JavaScript</li>
+    <li>Experience with Git and Agile development</li>
+  </ul>
+</body>
+</html>
